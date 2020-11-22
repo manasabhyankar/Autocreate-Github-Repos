@@ -3,7 +3,7 @@ This is a simple Python automation script utilizing the Github API.
 
 It will take the following steps to create a new repository on your Github account, as well as create the appropriate repo locally on your machine and push it to the newly created repo:
 1. Run the Python script to create a new repo on your Github account.
-   a. Note that this implementation uses an access token, so you will need to create one for use with your computer.
+    * Note that this implementation uses an access token, so you will need to create one for use with your computer.
 2. Create a default README.md with the name of your repo and default text.
 3. Initialize a new repo at the target directory you supplied.
 4. Add a default README.md file to the repo.
@@ -14,7 +14,7 @@ It will take the following steps to create a new repository on your Github accou
 **Here's a template for your reference**
 `new-repo <name of your repo here, excluding the angle brackets> <your target directory here>`
 
-Example:
+**Example:**
 `new-repo Sample-Repo C:\some\sample\directory`
 
 ## Notes:
