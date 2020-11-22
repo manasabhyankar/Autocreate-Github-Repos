@@ -13,6 +13,7 @@ It will take the following steps to create a new repository on your Github accou
 
 **Here's a template for your reference**
 `new-repo <name of your repo here, excluding the angle brackets> <your target directory here>`
+
 Example:
 `new-repo Sample-Repo C:\some\sample\directory`
 
